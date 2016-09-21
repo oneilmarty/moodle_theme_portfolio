@@ -9,7 +9,7 @@
  * http://docs.moodle.org/dev/Themes_2.0
  *
  * @package   theme_purplemartin
- * @copyright 2016 Marty O&rsquo;Neil, martyoneilweb.com
+ * @copyright 2016 Marty O&rsquo;Neil, {@link martyoneilweb.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

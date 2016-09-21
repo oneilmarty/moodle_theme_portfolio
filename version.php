@@ -13,7 +13,8 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'Purple Martin';
-$string['region-side-post'] = 'Right';
-$string['region-side-pre'] = 'Left';
-$string['choosereadme'] = 'Purple Martin is a special minimalist theme designed to look like martyoneilweb.com.';
+defined('MOODLE_INTERNAL') || die;
+
+$plugin->version   = 2016092100; // The current module version (Date: YYYYMMDDXX).
+$plugin->requires  = 2016092100; // Requires this Moodle version.
+$plugin->component = 'theme_purplemartin'; // Full name of the plugin (used for diagnostics).
